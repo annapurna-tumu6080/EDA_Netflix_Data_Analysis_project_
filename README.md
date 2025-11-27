@@ -72,7 +72,7 @@ Majority of content is rated TV-MA, indicating adult-oriented shows
 
   4.📝 Documentation & insights
 
-•🚀 How to Run the Project•••••••• Clone the repository
+•🚀 How to Run the Project Clone the repository
 
  1.Install required libraries
 
