@@ -1,0 +1,301 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s00001,Movie,Title 1,Director D,"Actor 3, Actor 4",United States,"January 10, 2020",1996,PG-13,70 min,Horror,A dark story about technology.
+s00002,TV Show,Title 2,Director E,,United Kingdom,"October 19, 2010",2005,PG-13,3 Seasons,Thriller,A dark story about friendship.
+s00003,TV Show,Title 3,Director A,"Actor 1, Actor 2",United Kingdom,"June 27, 2016",2015,R,2 Seasons,Documentary,A inspiring story about survival.
+s00004,Movie,Title 4,Director B,,"Japan, Italy","October 07, 2009",1980,TV-14,136 min,Thriller,A thrilling story about technology.
+s00005,Movie,Title 5,Director D,,Canada,"May 19, 2020",1987,TV-MA,68 min,Family,A mysterious story about friendship.
+s00006,Movie,Title 5,Director E,Actor 5,,"July 29, 2014",2014,TV-14,146 min,"Action, Drama",A thrilling story about love.
+s00007,Movie,Title 7,Director E,,United Kingdom,"February 05, 2022",1994,TV-MA,170 min,Animation,A inspiring story about survival.
+s00008,TV Show,Title 8,Director A,"Actor 1, Actor 2",United States,"November 14, 2021",2001,TV-MA,4 Seasons,Drama,A mysterious story about crime.
+s00009,Movie,Title 9,,,Brazil,"February 10, 2016",1993,TV-14,111 min,Drama,A funny story about family.
+s00010,TV Show,Title 10,Director B,Actor 5,United States,"December 12, 2020",2005,PG-13,2 Seasons,Romance,A dark story about survival.
+s00011,Movie,Title 11,Director D,"Actor 3, Actor 4",,"April 24, 2012",2007,TV-PG,180 min,Family,A heartfelt story about friendship.
+s00012,TV Show,Title 12,Director B,"Actor 1, Actor 2",United States,"October 20, 2023",2002,PG-13,4 Seasons,Sci-Fi,A mysterious story about family.
+s00013,TV Show,Title 13,Director B,"Actor 3, Actor 4","United States, Germany","July 23, 2009",1993,TV-14,1 Seasons,"Thriller, Drama",A thrilling story about love.
+s00014,Movie,Title 14,Director D,Actor 5,,"January 10, 2009",2003,R,139 min,Comedy,A heartfelt story about family.
+s00015,Movie,Title 15,Director A,"Actor 6, Actor 7, Actor 8",Spain,"October 31, 2022",1981,TV-MA,70 min,Family,A mysterious story about crime.
+s00016,Movie,Title 16,Director E,"Actor 1, Actor 2","Canada, Mexico",,2024,R,113 min,"Documentary, Romance",A inspiring story about crime.
+s00017,Movie,Title 17,Director B,Actor 5,"India, France","June 28, 2014",2005,TV-MA,144 min,Family,A heartfelt story about technology.
+s00018,Movie,Title 18,Director A,"Actor 6, Actor 7, Actor 8",United States,"October 15, 2009",1993,TV-PG,134 min,Family,A dark story about crime.
+s00019,Movie,Title 19,Director B,"Actor 6, Actor 7, Actor 8",United States,"March 22, 2013",1986,TV-MA,132 min,Romance,A thrilling story about friendship.
+s00020,Movie,Title 20,Director D,"Actor 3, Actor 4",United States,"April 07, 2010",1982,PG-13,126 min,Animation,A inspiring story about survival.
+s00021,Movie,Title 21,,"Actor 3, Actor 4",United Kingdom,"July 10, 2016",2002,TV-MA,100 min,Animation,A funny story about friendship.
+s00022,Movie,Title 22,,"Actor 1, Actor 2",Canada,"March 27, 2014",2022,NR,179 min,"Horror, Comedy",A dark story about crime.
+s00023,Movie,Title 23,Director E,Actor 5,"Japan, Italy","March 03, 2018",2024,TV-14,93 min,Animation,A heartfelt story about survival.
+s00024,Movie,Title 24,,"Actor 3, Actor 4",United States,"April 04, 2022",1997,TV-14,86 min,Thriller,A dark story about survival.
+s00025,Movie,Title 25,Director C,"Actor 3, Actor 4",,"March 07, 2016",2017,TV-MA,145 min,Drama,A funny story about technology.
+s00026,TV Show,Title 26,Director C,"Actor 1, Actor 2",Canada,"August 25, 2011",2014,R,6 Seasons,Horror,A heartfelt story about crime.
+s00027,Movie,Title 27,Director B,Actor 5,United Kingdom,"April 20, 2016",1994,TV-MA,90 min,Romance,A inspiring story about technology.
+s00028,Movie,Title 28,Director C,Actor 5,Japan,"December 20, 2015",2004,G,93 min,Romance,A dark story about love.
+s00029,Movie,Title 29,,,India,"September 12, 2012",2016,TV-MA,110 min,Animation,A inspiring story about family.
+s00030,Movie,Title 30,Director C,Actor 5,United States,"January 12, 2023",2007,TV-MA,76 min,Drama,A inspiring story about survival.
+s00031,Movie,Title 31,Director A,"Actor 3, Actor 4",India,"December 27, 2013",1989,TV-MA,145 min,Animation,A mysterious story about technology.
+s00032,Movie,Title 32,Director C,Actor 5,Canada,"September 28, 2023",2018,TV-14,142 min,Sci-Fi,A heartfelt story about technology.
+s00033,Movie,Title 33,,"Actor 1, Actor 2",United States,"May 01, 2023",1996,TV-14,98 min,"Action, Drama",A thrilling story about love.
+s00034,TV Show,Title 34,Director C,"Actor 1, Actor 2",United States,"July 14, 2022",2018,TV-MA,8 Seasons,Drama,A heartfelt story about crime.
+s00035,TV Show,Title 35,,"Actor 6, Actor 7, Actor 8",United States,"August 07, 2009",2001,PG,6 Seasons,"Family, Drama",A inspiring story about love.
+s00036,TV Show,Title 36,Director A,"Actor 1, Actor 2",United States,"August 30, 2021",2005,TV-14,2 Seasons,Animation,A mysterious story about friendship.
+s00037,Movie,Title 37,,Actor 5,Spain,"March 29, 2022",2023,TV-14,61 min,Horror,A inspiring story about friendship.
+s00038,Movie,Title 38,,"Actor 1, Actor 2",Canada,"November 02, 2011",2004,TV-14,118 min,Sci-Fi,A mysterious story about love.
+s00039,TV Show,Title 39,Director D,"Actor 3, Actor 4",India,"December 24, 2019",1996,PG-13,2 Seasons,Comedy,A mysterious story about crime.
+s00040,Movie,Title 40,Director A,"Actor 1, Actor 2",United States,"May 09, 2024",1992,TV-14,69 min,Animation,A thrilling story about love.
+s00041,Movie,Title 41,Director E,"Actor 3, Actor 4",India,"June 28, 2013",1999,TV-MA,128 min,Romance,A dark story about friendship.
+s00042,Movie,Title 42,Director E,"Actor 1, Actor 2",India,"August 31, 2011",2004,TV-MA,87 min,Comedy,A mysterious story about love.
+s00043,Movie,Title 43,Director C,,United States,"May 14, 2018",1983,PG,124 min,Action,A mysterious story about love.
+s00044,TV Show,Title 44,,"Actor 1, Actor 2",India,"July 05, 2016",1989,TV-PG,5 Seasons,Comedy,A inspiring story about crime.
+s00045,Movie,Title 45,Director A,,"India, France","January 20, 2014",1982,PG-13,76 min,Sci-Fi,A inspiring story about family.
+s00046,TV Show,Title 46,Director D,"Actor 6, Actor 7, Actor 8",Japan,"May 09, 2022",2020,PG-13,6 Seasons,Drama,A dark story about crime.
+s00047,Movie,Title 47,Director A,"Actor 6, Actor 7, Actor 8",Japan,"June 08, 2023",2024,R,172 min,Horror,A heartfelt story about crime.
+s00048,Movie,Title 48,,"Actor 1, Actor 2","United States, Germany","June 28, 2020",1997,PG-13,68 min,Animation,A thrilling story about crime.
+s00049,Movie,Title 49,Director C,Actor 5,India,"December 04, 2012",2015,TV-MA,172 min,Romance,A mysterious story about survival.
+s00050,Movie,Title 50,Director D,"Actor 1, Actor 2","Japan, Italy","May 10, 2023",2001,TV-MA,91 min,"Thriller, Animation",A thrilling story about family.
+s00051,TV Show,Title 51,Director D,"Actor 3, Actor 4",United Kingdom,"April 10, 2015",2013,R,6 Seasons,Family,A mysterious story about family.
+s00052,TV Show,Title 52,,Actor 5,Spain,"April 03, 2009",1987,R,5 Seasons,Drama,A heartfelt story about family.
+s00053,TV Show,Title 53,Director C,"Actor 6, Actor 7, Actor 8","Japan, France","February 19, 2013",2019,TV-MA,3 Seasons,"Family, Documentary",A heartfelt story about family.
+s00054,TV Show,Title 54,,"Actor 1, Actor 2",United States,"September 19, 2008",2023,TV-MA,8 Seasons,Horror,A funny story about technology.
+s00055,Movie,Title 55,,Actor 5,United States,"January 28, 2015",1998,TV-MA,166 min,Family,A funny story about family.
+s00056,TV Show,Title 56,Director E,"Actor 1, Actor 2",Japan,"December 30, 2016",2021,R,5 Seasons,Family,A thrilling story about technology.
+s00057,Movie,Title 57,,"Actor 6, Actor 7, Actor 8",United States,"January 02, 2014",2020,TV-MA,138 min,Drama,A dark story about friendship.
+s00058,Movie,Title 58,Director A,,"United Kingdom, France","June 26, 2009",2016,TV-MA,163 min,Documentary,A dark story about technology.
+s00059,Movie,Title 59,,"Actor 3, Actor 4",,"September 24, 2012",1985,PG,143 min,"Horror, Family",A heartfelt story about technology.
+s00060,Movie,Title 60,Director E,"Actor 3, Actor 4",United Kingdom,"September 20, 2020",2005,TV-MA,127 min,Documentary,A dark story about friendship.
+s00061,Movie,Title 61,Director D,"Actor 3, Actor 4",India,"February 07, 2024",2013,R,61 min,Documentary,A mysterious story about family.
+s00062,Movie,Title 62,Director C,,Japan,"January 21, 2015",2024,TV-MA,145 min,Action,A funny story about family.
+s00063,TV Show,Title 63,Director D,"Actor 6, Actor 7, Actor 8",India,"October 07, 2012",1985,TV-MA,5 Seasons,Action,A mysterious story about survival.
+s00064,Movie,Title 64,,,United Kingdom,"September 13, 2022",2016,TV-MA,179 min,Thriller,A funny story about crime.
+s00065,Movie,Title 65,Director B,"Actor 3, Actor 4",,"March 13, 2019",2012,R,144 min,Romance,A heartfelt story about love.
+s00066,Movie,Title 66,Director A,"Actor 1, Actor 2",India,"November 15, 2016",2001,PG,73 min,Sci-Fi,A mysterious story about love.
+s00067,Movie,Title 67,,"Actor 1, Actor 2",,"June 02, 2022",2000,PG,180 min,Family,A funny story about friendship.
+s00068,TV Show,Title 68,Director B,"Actor 3, Actor 4",,"April 16, 2018",1985,PG-13,3 Seasons,Drama,A thrilling story about technology.
+s00069,Movie,Title 69,Director E,"Actor 1, Actor 2",United States,"March 16, 2011",1985,R,93 min,Family,A heartfelt story about crime.
+s00070,TV Show,Title 70,,,United States,"December 09, 2013",1983,TV-MA,2 Seasons,Family,A thrilling story about technology.
+s00071,TV Show,Title 71,Director A,,United States,"February 17, 2011",2009,PG-13,2 Seasons,Family,A funny story about crime.
+s00072,Movie,Title 72,,"Actor 1, Actor 2","United States, Germany","July 13, 2013",1990,G,155 min,"Animation, Family",A mysterious story about love.
+s00073,Movie,Title 73,,Actor 5,United States,"September 15, 2024",2009,TV-MA,130 min,Sci-Fi,A thrilling story about crime.
+s00074,TV Show,Title 74,Director E,Actor 5,Canada,"August 03, 2020",2010,TV-MA,3 Seasons,Horror,A inspiring story about love.
+s00075,TV Show,Title 75,Director B,,United States,"February 02, 2020",2003,TV-MA,5 Seasons,"Documentary, Comedy",A inspiring story about crime.
+s00076,TV Show,Title 76,Director B,"Actor 1, Actor 2",United States,"November 22, 2013",1988,TV-MA,5 Seasons,Comedy,A inspiring story about technology.
+s00077,TV Show,Title 77,Director D,,Spain,"October 02, 2024",1982,TV-MA,4 Seasons,Sci-Fi,A heartfelt story about crime.
+s00078,Movie,Title 78,,,United States,"February 09, 2021",2010,TV-14,151 min,Action,A inspiring story about technology.
+s00079,Movie,Title 79,Director B,"Actor 3, Actor 4",Brazil,"August 10, 2017",2019,PG-13,103 min,"Horror, Family",A heartfelt story about friendship.
+s00080,Movie,Title 80,Director B,"Actor 3, Actor 4","United States, France","February 01, 2021",2016,G,86 min,Horror,A thrilling story about love.
+s00081,TV Show,Title 81,Director C,,United States,"December 15, 2016",2015,PG,5 Seasons,Drama,A inspiring story about love.
+s00082,Movie,Title 82,Director E,"Actor 1, Actor 2","Canada, France","February 13, 2016",2003,PG-13,124 min,"Drama, Family",A heartfelt story about family.
+s00083,Movie,Title 83,Director D,,Japan,"December 01, 2012",2010,PG-13,122 min,Documentary,A heartfelt story about friendship.
+s00084,Movie,Title 84,Director A,Actor 5,Spain,"February 07, 2011",1985,PG-13,92 min,Horror,A heartfelt story about friendship.
+s00085,Movie,Title 85,Director D,"Actor 6, Actor 7, Actor 8",Canada,"June 06, 2019",1981,TV-14,175 min,Family,A inspiring story about friendship.
+s00086,Movie,Title 86,,,Brazil,"January 25, 2019",1999,PG-13,176 min,Horror,A inspiring story about crime.
+s00087,TV Show,Title 87,,"Actor 1, Actor 2",United States,"January 14, 2010",2007,R,1 Seasons,Documentary,A funny story about technology.
+s00088,Movie,Title 88,,Actor 5,United States,"December 13, 2024",1990,PG-13,71 min,Romance,A dark story about love.
+s00089,TV Show,Title 89,Director A,"Actor 6, Actor 7, Actor 8",Canada,"January 20, 2009",1983,TV-14,7 Seasons,Documentary,A mysterious story about survival.
+s00090,Movie,Title 90,Director B,"Actor 1, Actor 2",Brazil,"June 17, 2010",1994,TV-14,166 min,"Drama, Sci-Fi",A heartfelt story about love.
+s00091,Movie,Title 91,Director C,,,"June 06, 2011",1985,PG-13,95 min,Sci-Fi,A inspiring story about love.
+s00092,TV Show,Title 92,Director E,,India,"January 27, 2022",2009,TV-PG,1 Seasons,Drama,A mysterious story about love.
+s00093,TV Show,Title 93,Director B,"Actor 3, Actor 4",India,"August 03, 2011",2017,PG,1 Seasons,Action,A funny story about survival.
+s00094,Movie,Title 94,Director B,"Actor 1, Actor 2",Brazil,"April 06, 2023",1981,TV-MA,102 min,"Documentary, Comedy",A funny story about family.
+s00095,TV Show,Title 95,,,United States,"June 20, 2017",1994,PG,3 Seasons,Family,A heartfelt story about family.
+s00096,Movie,Title 96,,"Actor 3, Actor 4",,"May 17, 2021",1990,TV-14,141 min,Action,A inspiring story about friendship.
+s00097,Movie,Title 97,Director C,,Spain,"June 04, 2009",1987,G,93 min,Documentary,A funny story about technology.
+s00098,Movie,Title 98,Director B,Actor 5,India,"August 18, 2016",2005,PG,80 min,"Thriller, Sci-Fi",A heartfelt story about crime.
+s00099,Movie,Title 99,Director D,"Actor 1, Actor 2",Canada,"July 23, 2016",2024,PG-13,154 min,Family,A funny story about friendship.
+s00100,Movie,Title 100,,,Canada,"May 13, 2021",2023,TV-MA,116 min,Horror,A inspiring story about family.
+s00101,Movie,Title 101,,"Actor 3, Actor 4",United States,"July 01, 2018",1984,PG-13,130 min,Drama,A mysterious story about love.
+s00102,Movie,Title 102,Director B,"Actor 1, Actor 2",,"November 13, 2019",1985,TV-14,150 min,Romance,A thrilling story about friendship.
+s00103,Movie,Title 103,,"Actor 6, Actor 7, Actor 8",United Kingdom,"August 21, 2013",2005,R,114 min,"Thriller, Romance",A thrilling story about family.
+s00104,Movie,Title 104,,"Actor 3, Actor 4",Spain,"May 29, 2020",1983,PG-13,131 min,"Action, Thriller",A mysterious story about survival.
+s00105,TV Show,Title 105,Director D,"Actor 1, Actor 2",United States,"April 04, 2008",1998,TV-MA,1 Seasons,Drama,A heartfelt story about survival.
+s00106,Movie,Title 106,,Actor 5,,"April 04, 2023",1999,PG,74 min,Romance,A dark story about survival.
+s00107,Movie,Title 107,Director C,"Actor 1, Actor 2",India,"March 01, 2024",2012,NR,69 min,Comedy,A heartfelt story about love.
+s00108,TV Show,Title 108,Director A,"Actor 6, Actor 7, Actor 8",United States,"July 27, 2010",1999,TV-14,3 Seasons,Action,A inspiring story about technology.
+s00109,Movie,Title 109,,"Actor 1, Actor 2",,"April 16, 2023",1991,TV-MA,129 min,Drama,A thrilling story about crime.
+s00110,Movie,Title 110,Director A,"Actor 3, Actor 4",United States,"January 16, 2020",1980,PG-13,64 min,"Family, Drama, Sci-Fi",A inspiring story about family.
+s00111,Movie,Title 111,Director D,,"United States, Italy","November 03, 2024",2005,TV-MA,166 min,Comedy,A dark story about crime.
+s00112,Movie,Title 112,Director A,"Actor 1, Actor 2",,"December 25, 2013",1993,TV-PG,107 min,Sci-Fi,A funny story about technology.
+s00113,TV Show,Title 113,Director D,Actor 5,,"May 17, 2022",2017,TV-MA,3 Seasons,Horror,A inspiring story about friendship.
+s00114,TV Show,Title 114,,Actor 5,United Kingdom,"August 18, 2015",2016,TV-14,7 Seasons,"Thriller, Drama",A funny story about friendship.
+s00115,Movie,Title 115,Director D,"Actor 1, Actor 2","Japan, France","July 02, 2010",1990,PG-13,76 min,Drama,A mysterious story about family.
+s00116,TV Show,Title 116,,"Actor 1, Actor 2",India,"August 01, 2014",2015,TV-14,1 Seasons,Family,A funny story about family.
+s00117,TV Show,Title 117,Director C,Actor 5,United States,"October 01, 2017",1992,R,5 Seasons,Drama,A dark story about friendship.
+s00118,Movie,Title 118,Director C,"Actor 6, Actor 7, Actor 8",United States,"July 19, 2011",2022,PG,106 min,Drama,A dark story about survival.
+s00119,TV Show,Title 119,Director E,,Japan,"March 05, 2018",1982,TV-MA,1 Seasons,Sci-Fi,A funny story about technology.
+s00120,Movie,Title 120,Director A,"Actor 1, Actor 2","Canada, Germany","January 27, 2008",2012,TV-MA,175 min,Action,A funny story about friendship.
+s00121,TV Show,Title 121,,"Actor 1, Actor 2",Brazil,"March 12, 2024",1985,TV-MA,6 Seasons,Animation,A mysterious story about friendship.
+s00122,TV Show,Title 122,,Actor 5,Brazil,"February 21, 2024",1989,G,4 Seasons,Documentary,A thrilling story about family.
+s00123,Movie,Title 123,Director D,,United States,"November 27, 2013",1984,PG,147 min,Sci-Fi,A heartfelt story about love.
+s00124,Movie,Title 124,Director B,"Actor 1, Actor 2",India,"March 24, 2019",2002,TV-14,91 min,Action,A dark story about survival.
+s00125,Movie,Title 125,Director D,Actor 5,United States,"January 03, 2012",1989,TV-14,145 min,Comedy,A thrilling story about crime.
+s00126,Movie,Title 126,,,"United Kingdom, Germany","May 21, 2019",2023,R,73 min,Animation,A heartfelt story about survival.
+s00127,TV Show,Title 127,Director A,"Actor 1, Actor 2",India,"May 21, 2010",1981,TV-MA,6 Seasons,"Horror, Romance",A heartfelt story about technology.
+s00128,TV Show,Title 128,,"Actor 1, Actor 2",,"January 09, 2022",1992,TV-PG,7 Seasons,Comedy,A thrilling story about crime.
+s00129,Movie,Title 129,Director E,"Actor 1, Actor 2",India,"September 10, 2014",2019,PG-13,139 min,"Drama, Action",A inspiring story about family.
+s00130,Movie,Title 130,Director C,"Actor 1, Actor 2",United States,"May 01, 2022",1981,PG-13,155 min,Thriller,A thrilling story about survival.
+s00131,Movie,Title 131,Director E,"Actor 3, Actor 4",United States,"May 21, 2019",1999,TV-14,79 min,Romance,A heartfelt story about friendship.
+s00132,Movie,Title 132,Director A,,Brazil,"August 28, 2021",1980,TV-MA,178 min,Family,A inspiring story about friendship.
+s00133,Movie,Title 133,Director C,"Actor 3, Actor 4",Japan,"June 17, 2012",2016,TV-MA,179 min,"Action, Thriller",A dark story about crime.
+s00134,Movie,Title 134,Director C,Actor 5,United States,"June 06, 2011",1988,R,90 min,Animation,A funny story about survival.
+s00135,TV Show,Title 135,Director A,Actor 5,United States,"May 21, 2016",1996,TV-MA,3 Seasons,"Documentary, Horror",A heartfelt story about survival.
+s00136,Movie,Title 136,Director D,,"Canada, Italy","August 16, 2011",1988,TV-14,162 min,Horror,A mysterious story about crime.
+s00137,Movie,Title 137,Director E,,United States,"February 05, 2020",1990,TV-MA,163 min,"Action, Thriller",A thrilling story about love.
+s00138,TV Show,Title 138,Director E,"Actor 1, Actor 2",Spain,"November 23, 2019",1994,PG-13,3 Seasons,Thriller,A funny story about crime.
+s00139,Movie,Title 139,Director D,"Actor 1, Actor 2",Canada,"January 05, 2008",2003,PG-13,172 min,Animation,A thrilling story about survival.
+s00140,TV Show,Title 140,Director A,"Actor 1, Actor 2",United States,"June 07, 2021",2017,PG-13,7 Seasons,Drama,A thrilling story about crime.
+s00141,TV Show,Title 141,Director A,"Actor 3, Actor 4","United States, Mexico","April 09, 2015",2014,R,1 Seasons,Sci-Fi,A inspiring story about family.
+s00142,Movie,Title 142,Director E,,,"December 16, 2018",2009,PG-13,82 min,"Romance, Horror",A mysterious story about technology.
+s00143,Movie,Title 143,,,"India, France","June 08, 2008",2010,TV-14,154 min,"Romance, Sci-Fi",A dark story about technology.
+s00144,Movie,Title 144,Director D,"Actor 1, Actor 2",India,"July 05, 2010",1984,TV-14,178 min,"Comedy, Action",A inspiring story about crime.
+s00145,Movie,Title 145,Director D,"Actor 3, Actor 4",Brazil,"February 21, 2016",2023,R,102 min,Action,A funny story about family.
+s00146,Movie,Title 146,Director C,,,"November 24, 2014",1993,TV-PG,160 min,Romance,A funny story about love.
+s00147,Movie,Title 147,Director E,"Actor 3, Actor 4",,"May 15, 2013",1990,R,179 min,Family,A inspiring story about friendship.
+s00148,Movie,Title 148,Director A,"Actor 1, Actor 2",Canada,"April 19, 2009",1988,TV-MA,112 min,Action,A thrilling story about family.
+s00149,Movie,Title 149,Director A,Actor 5,India,"May 27, 2013",2013,TV-MA,162 min,Thriller,A mysterious story about survival.
+s00150,Movie,Title 150,,Actor 5,United States,"September 21, 2020",1991,PG-13,145 min,Documentary,A thrilling story about survival.
+s00151,TV Show,Title 151,Director B,"Actor 1, Actor 2",Brazil,"October 07, 2009",2014,TV-14,4 Seasons,Documentary,A funny story about love.
+s00152,Movie,Title 152,Director A,"Actor 1, Actor 2",United Kingdom,"December 02, 2009",2014,TV-MA,94 min,"Sci-Fi, Horror",A thrilling story about technology.
+s00153,Movie,Title 153,Director A,"Actor 1, Actor 2",India,"May 31, 2024",1980,TV-14,80 min,"Thriller, Sci-Fi",A thrilling story about survival.
+s00154,Movie,Title 154,Director D,"Actor 1, Actor 2",,"November 25, 2018",2019,TV-14,160 min,"Horror, Animation, Sci-Fi",A funny story about technology.
+s00155,TV Show,Title 155,Director E,"Actor 3, Actor 4",United States,"July 20, 2009",2001,PG-13,2 Seasons,Romance,A thrilling story about family.
+s00156,Movie,Title 156,,Actor 5,India,"December 12, 2019",2008,PG,108 min,Documentary,A heartfelt story about family.
+s00157,TV Show,Title 157,Director A,"Actor 3, Actor 4",United States,"October 27, 2010",1987,TV-MA,1 Seasons,"Family, Sci-Fi",A mysterious story about love.
+s00158,TV Show,Title 158,Director E,Actor 5,India,"November 17, 2010",1990,TV-MA,8 Seasons,Drama,A funny story about family.
+s00159,Movie,Title 159,,"Actor 1, Actor 2",United States,"October 18, 2022",2020,R,88 min,Thriller,A funny story about family.
+s00160,TV Show,Title 160,,,United States,"August 29, 2018",2016,TV-14,4 Seasons,"Comedy, Documentary",A inspiring story about love.
+s00161,Movie,Title 161,,Actor 5,United States,"April 30, 2020",1993,R,164 min,Action,A mysterious story about crime.
+s00162,Movie,Title 162,Director C,"Actor 1, Actor 2",Japan,"September 14, 2011",2009,TV-14,177 min,Comedy,A dark story about crime.
+s00163,Movie,Title 163,,"Actor 3, Actor 4",Canada,"December 11, 2013",2014,TV-MA,118 min,Sci-Fi,A thrilling story about family.
+s00164,Movie,Title 164,Director E,"Actor 1, Actor 2",United Kingdom,"November 01, 2019",2000,PG,104 min,Animation,A inspiring story about friendship.
+s00165,Movie,Title 165,Director B,,,"August 09, 2021",2016,PG,99 min,Documentary,A dark story about family.
+s00166,TV Show,Title 166,Director B,"Actor 6, Actor 7, Actor 8",India,"June 28, 2017",1984,R,4 Seasons,Horror,A thrilling story about crime.
+s00167,Movie,Title 167,,,United States,"October 01, 2012",1998,PG-13,88 min,Romance,A dark story about family.
+s00168,Movie,Title 168,Director B,"Actor 6, Actor 7, Actor 8",Spain,"February 04, 2020",1993,TV-14,63 min,Comedy,A dark story about technology.
+s00169,Movie,Title 169,Director C,"Actor 6, Actor 7, Actor 8",United States,"December 09, 2024",2005,PG-13,144 min,Animation,A inspiring story about survival.
+s00170,Movie,Title 170,Director D,Actor 5,,"May 15, 2024",1983,TV-MA,84 min,Thriller,A dark story about love.
+s00171,TV Show,Title 171,Director D,"Actor 3, Actor 4",United States,"June 22, 2023",2004,TV-PG,7 Seasons,Documentary,A dark story about love.
+s00172,Movie,Title 172,Director C,"Actor 3, Actor 4",,"July 05, 2012",2024,TV-MA,102 min,Animation,A inspiring story about family.
+s00173,Movie,Title 173,Director E,Actor 5,"United States, France","December 28, 2023",2021,TV-PG,95 min,"Documentary, Romance",A mysterious story about crime.
+s00174,Movie,Title 174,Director D,"Actor 1, Actor 2",,"December 28, 2014",2004,TV-14,170 min,Comedy,A inspiring story about friendship.
+s00175,Movie,Title 175,Director D,"Actor 1, Actor 2","United Kingdom, Germany","December 12, 2016",1997,TV-MA,68 min,Thriller,A inspiring story about survival.
+s00176,Movie,Title 176,,"Actor 3, Actor 4",,"January 24, 2023",2019,TV-14,158 min,Horror,A mysterious story about technology.
+s00177,TV Show,Title 177,,"Actor 1, Actor 2","United States, Germany","July 29, 2022",1987,PG,5 Seasons,Sci-Fi,A mysterious story about love.
+s00178,Movie,Title 178,,"Actor 1, Actor 2",United Kingdom,"May 17, 2016",2018,R,104 min,Action,A mysterious story about friendship.
+s00179,TV Show,Title 179,Director C,"Actor 1, Actor 2",,"October 28, 2017",2019,PG,7 Seasons,Sci-Fi,A inspiring story about crime.
+s00180,Movie,Title 180,Director B,"Actor 3, Actor 4",United Kingdom,"August 10, 2019",1993,R,146 min,Action,A mysterious story about technology.
+s00181,Movie,Title 181,Director B,Actor 5,Japan,"February 15, 2018",2011,R,167 min,Romance,A thrilling story about friendship.
+s00182,Movie,Title 182,Director E,"Actor 1, Actor 2",Canada,"September 18, 2010",2017,PG,128 min,Horror,A heartfelt story about family.
+s00183,TV Show,Title 183,Director E,"Actor 6, Actor 7, Actor 8",India,"July 23, 2013",2012,TV-MA,6 Seasons,Action,A inspiring story about family.
+s00184,TV Show,Title 184,Director E,"Actor 3, Actor 4","Japan, Mexico","January 14, 2013",2002,TV-14,1 Seasons,Action,A funny story about survival.
+s00185,Movie,Title 185,Director A,Actor 5,United Kingdom,"June 08, 2009",1994,TV-MA,74 min,Sci-Fi,A dark story about friendship.
+s00186,TV Show,Title 186,Director C,"Actor 3, Actor 4",,"August 01, 2015",2012,NR,5 Seasons,"Thriller, Romance",A inspiring story about friendship.
+s00187,TV Show,Title 187,Director A,Actor 5,United States,"June 21, 2008",2004,TV-PG,3 Seasons,Family,A inspiring story about technology.
+s00188,Movie,Title 188,,,United States,"March 12, 2021",1996,TV-MA,134 min,"Sci-Fi, Drama",A funny story about crime.
+s00189,Movie,Title 189,,Actor 5,,"June 03, 2020",2012,R,93 min,Animation,A funny story about friendship.
+s00190,Movie,Title 190,Director A,,,"February 28, 2013",1981,TV-PG,64 min,"Documentary, Drama, Comedy",A inspiring story about crime.
+s00191,Movie,Title 191,Director B,Actor 5,India,"March 13, 2021",1993,TV-MA,73 min,Thriller,A heartfelt story about friendship.
+s00192,TV Show,Title 192,Director D,"Actor 6, Actor 7, Actor 8",Japan,"December 09, 2012",2019,TV-14,7 Seasons,Drama,A dark story about friendship.
+s00193,TV Show,Title 193,,"Actor 1, Actor 2",United States,"February 28, 2008",2019,TV-PG,6 Seasons,"Documentary, Comedy, Horror",A funny story about crime.
+s00194,Movie,Title 194,Director D,"Actor 1, Actor 2",United States,"August 04, 2009",2018,TV-MA,153 min,Action,A funny story about family.
+s00195,Movie,Title 195,Director B,Actor 5,"India, Germany","November 16, 2023",1985,R,160 min,Thriller,A funny story about family.
+s00196,Movie,Title 196,Director A,"Actor 1, Actor 2",India,"February 25, 2022",1985,PG-13,100 min,Comedy,A dark story about crime.
+s00197,TV Show,Title 197,Director B,Actor 5,United Kingdom,"April 27, 2009",1982,TV-PG,7 Seasons,Documentary,A funny story about family.
+s00198,TV Show,Title 198,Director A,,United States,"February 18, 2013",1986,NR,2 Seasons,Comedy,A mysterious story about family.
+s00199,TV Show,Title 199,Director C,,,"July 06, 2009",1987,TV-PG,7 Seasons,Thriller,A thrilling story about love.
+s00200,TV Show,Title 200,Director B,"Actor 6, Actor 7, Actor 8",,"September 14, 2008",2021,TV-14,4 Seasons,Action,A dark story about friendship.
+s00201,Movie,Title 201,,"Actor 3, Actor 4",Canada,"May 30, 2015",1994,PG,92 min,"Romance, Drama",A thrilling story about friendship.
+s00202,Movie,Title 202,,Actor 5,United Kingdom,"August 03, 2009",2008,PG,65 min,Romance,A funny story about crime.
+s00203,Movie,Title 203,Director B,"Actor 1, Actor 2",United States,"July 13, 2019",2012,PG-13,150 min,Comedy,A inspiring story about crime.
+s00204,TV Show,Title 204,Director E,"Actor 3, Actor 4",Brazil,"May 03, 2013",2009,PG,7 Seasons,Comedy,A thrilling story about friendship.
+s00205,Movie,Title 205,Director A,"Actor 3, Actor 4",Canada,"March 31, 2014",2018,TV-MA,60 min,"Drama, Thriller, Animation",A heartfelt story about survival.
+s00206,Movie,Title 206,Director D,"Actor 3, Actor 4",United States,"January 02, 2023",2006,TV-14,126 min,Thriller,A inspiring story about crime.
+s00207,Movie,Title 207,Director C,"Actor 3, Actor 4",,"November 20, 2018",2015,TV-MA,178 min,"Comedy, Romance, Thriller",A funny story about friendship.
+s00208,TV Show,Title 208,Director E,"Actor 3, Actor 4",Spain,"October 21, 2012",2008,TV-MA,4 Seasons,Documentary,A thrilling story about technology.
+s00209,Movie,Title 209,Director D,"Actor 1, Actor 2",,"February 04, 2020",2017,TV-MA,106 min,Family,A inspiring story about friendship.
+s00210,Movie,Title 210,Director C,"Actor 1, Actor 2",Canada,"December 19, 2010",2012,R,115 min,Animation,A heartfelt story about survival.
+s00211,Movie,Title 211,Director C,Actor 5,Japan,"March 22, 2024",2016,PG-13,68 min,"Horror, Action",A funny story about friendship.
+s00212,TV Show,Title 212,Director E,"Actor 1, Actor 2",India,"October 21, 2020",2006,R,6 Seasons,Drama,A mysterious story about technology.
+s00213,TV Show,Title 213,Director A,"Actor 3, Actor 4",,"December 03, 2020",2012,TV-MA,6 Seasons,Comedy,A dark story about crime.
+s00214,Movie,Title 214,Director A,"Actor 1, Actor 2",Spain,"August 08, 2018",1983,PG-13,144 min,Documentary,A funny story about crime.
+s00215,TV Show,Title 215,,"Actor 3, Actor 4","United States, Germany","June 13, 2013",2001,TV-14,2 Seasons,"Drama, Action",A funny story about crime.
+s00216,Movie,Title 216,Director D,Actor 5,United States,"August 10, 2018",1981,PG,152 min,Comedy,A dark story about technology.
+s00217,Movie,Title 217,Director D,"Actor 1, Actor 2","India, France","February 16, 2017",1989,PG-13,175 min,Family,A dark story about family.
+s00218,TV Show,Title 218,,,Brazil,"April 08, 2012",1984,R,5 Seasons,Romance,A heartfelt story about technology.
+s00219,Movie,Title 219,Director C,,,"February 11, 2010",1989,G,124 min,Comedy,A dark story about family.
+s00220,TV Show,Title 220,Director B,"Actor 3, Actor 4",United States,"March 05, 2010",2012,R,5 Seasons,Sci-Fi,A heartfelt story about family.
+s00221,TV Show,Title 221,,Actor 5,United Kingdom,"October 12, 2022",2017,TV-MA,7 Seasons,Documentary,A funny story about friendship.
+s00222,Movie,Title 222,Director E,,India,"September 01, 2017",1992,TV-MA,101 min,Documentary,A inspiring story about technology.
+s00223,Movie,Title 223,,Actor 5,,"December 12, 2015",2010,PG,111 min,"Comedy, Animation",A funny story about family.
+s00224,Movie,Title 224,,"Actor 1, Actor 2",Spain,"July 01, 2017",2015,TV-MA,149 min,Sci-Fi,A thrilling story about friendship.
+s00225,Movie,Title 225,Director C,"Actor 1, Actor 2",Spain,"March 21, 2017",2024,PG,97 min,Sci-Fi,A inspiring story about survival.
+s00226,Movie,Title 226,Director D,"Actor 6, Actor 7, Actor 8",India,"June 22, 2018",2003,TV-14,130 min,Family,A inspiring story about love.
+s00227,TV Show,Title 227,,"Actor 1, Actor 2",India,"May 08, 2024",1994,TV-PG,3 Seasons,Drama,A funny story about love.
+s00228,Movie,Title 228,Director C,"Actor 1, Actor 2",United States,"March 19, 2009",2008,PG,84 min,Comedy,A heartfelt story about family.
+s00229,TV Show,Title 229,Director B,,United States,"February 07, 2023",1987,NR,7 Seasons,Sci-Fi,A thrilling story about family.
+s00230,Movie,Title 230,,,"Spain, Germany","August 28, 2022",1984,PG-13,145 min,Family,A funny story about love.
+s00231,TV Show,Title 231,,"Actor 1, Actor 2",Brazil,"June 29, 2022",2008,PG,7 Seasons,Comedy,A dark story about love.
+s00232,Movie,Title 232,Director C,,,"March 17, 2010",1983,PG-13,146 min,"Romance, Action",A dark story about family.
+s00233,Movie,Title 233,Director A,"Actor 3, Actor 4",,"May 11, 2009",1991,TV-14,155 min,Sci-Fi,A mysterious story about technology.
+s00234,Movie,Title 234,Director E,"Actor 1, Actor 2",United Kingdom,"January 11, 2017",2024,R,175 min,Comedy,A heartfelt story about crime.
+s00235,Movie,Title 235,Director D,"Actor 3, Actor 4",Brazil,"May 01, 2024",1981,PG,82 min,"Horror, Comedy",A mysterious story about family.
+s00236,TV Show,Title 236,Director E,,,"August 11, 2015",2006,NR,5 Seasons,Thriller,A thrilling story about survival.
+s00237,Movie,Title 237,Director A,"Actor 1, Actor 2",Spain,"June 14, 2010",2010,PG,111 min,Documentary,A thrilling story about love.
+s00238,Movie,Title 238,Director E,"Actor 3, Actor 4",United States,"July 29, 2013",2015,PG-13,130 min,Romance,A funny story about friendship.
+s00239,Movie,Title 239,Director B,"Actor 6, Actor 7, Actor 8",India,"April 18, 2012",2015,PG-13,166 min,Drama,A dark story about family.
+s00240,Movie,Title 240,Director A,,United States,"April 07, 2012",2005,R,60 min,Comedy,A dark story about family.
+s00241,TV Show,Title 241,,Actor 5,,"January 11, 2020",2022,TV-MA,5 Seasons,Horror,A mysterious story about friendship.
+s00242,TV Show,Title 242,,"Actor 3, Actor 4",Japan,"January 23, 2018",2006,TV-MA,5 Seasons,Sci-Fi,A dark story about technology.
+s00243,TV Show,Title 243,Director C,"Actor 3, Actor 4",United States,"February 22, 2011",1984,PG-13,4 Seasons,Thriller,A mysterious story about crime.
+s00244,Movie,Title 244,Director B,"Actor 3, Actor 4",Japan,"June 18, 2017",1999,PG-13,115 min,Family,A inspiring story about technology.
+s00245,Movie,Title 245,,,Japan,"February 12, 2012",1990,PG-13,160 min,Documentary,A inspiring story about love.
+s00246,TV Show,Title 246,Director C,,India,"March 31, 2014",1989,TV-MA,6 Seasons,Drama,A mysterious story about technology.
+s00247,Movie,Title 247,Director A,"Actor 3, Actor 4",United States,"May 17, 2018",2019,TV-MA,119 min,"Animation, Thriller",A dark story about family.
+s00248,TV Show,Title 248,Director C,"Actor 1, Actor 2",Japan,"August 08, 2013",2017,TV-MA,8 Seasons,Comedy,A thrilling story about friendship.
+s00249,TV Show,Title 249,Director A,"Actor 6, Actor 7, Actor 8",United Kingdom,"September 09, 2009",1985,NR,8 Seasons,"Horror, Action",A dark story about friendship.
+s00250,TV Show,Title 250,Director D,"Actor 1, Actor 2",Brazil,"December 09, 2017",1987,PG-13,4 Seasons,Drama,A mysterious story about survival.
+s00251,Movie,Title 251,Director D,,United Kingdom,"May 05, 2020",2002,PG-13,125 min,Family,A inspiring story about technology.
+s00252,Movie,Title 252,Director B,Actor 5,Spain,"March 13, 2010",2005,R,120 min,Thriller,A mysterious story about love.
+s00253,TV Show,Title 253,Director A,"Actor 1, Actor 2",United Kingdom,"February 18, 2009",2022,TV-MA,3 Seasons,"Sci-Fi, Thriller",A dark story about survival.
+s00254,Movie,Title 254,Director A,"Actor 3, Actor 4",United Kingdom,"August 17, 2022",1991,TV-PG,144 min,Action,A mysterious story about family.
+s00255,Movie,Title 255,Director D,"Actor 3, Actor 4",Spain,"February 15, 2020",2005,PG,70 min,"Thriller, Action, Documentary",A funny story about crime.
+s00256,Movie,Title 256,Director A,"Actor 6, Actor 7, Actor 8",India,"April 30, 2008",1992,TV-MA,96 min,Family,A funny story about friendship.
+s00257,TV Show,Title 257,,Actor 5,United States,"February 03, 2010",2019,PG-13,6 Seasons,Drama,A inspiring story about love.
+s00258,TV Show,Title 258,,"Actor 3, Actor 4",United States,"November 25, 2024",1997,PG,2 Seasons,"Documentary, Family",A funny story about friendship.
+s00259,Movie,Title 259,Director B,"Actor 3, Actor 4","Canada, Germany","April 20, 2013",2004,TV-PG,164 min,Sci-Fi,A dark story about crime.
+s00260,Movie,Title 260,Director B,"Actor 6, Actor 7, Actor 8",Japan,"September 24, 2011",2012,TV-14,156 min,"Horror, Drama",A thrilling story about love.
+s00261,Movie,Title 261,Director D,"Actor 1, Actor 2",Canada,"February 11, 2017",2019,R,90 min,Animation,A heartfelt story about crime.
+s00262,TV Show,Title 262,,,United States,"November 22, 2018",2022,TV-MA,5 Seasons,"Sci-Fi, Action",A mysterious story about family.
+s00263,Movie,Title 263,Director A,"Actor 1, Actor 2",United States,"October 18, 2018",1991,NR,88 min,Drama,A dark story about survival.
+s00264,Movie,Title 264,Director D,"Actor 1, Actor 2",United States,"October 17, 2012",2023,TV-MA,163 min,"Sci-Fi, Comedy",A inspiring story about survival.
+s00265,TV Show,Title 265,Director D,"Actor 3, Actor 4",India,"December 29, 2016",2015,TV-PG,4 Seasons,Thriller,A heartfelt story about love.
+s00266,TV Show,Title 266,Director A,"Actor 3, Actor 4",United Kingdom,"April 25, 2009",1983,R,3 Seasons,"Action, Comedy",A thrilling story about family.
+s00267,TV Show,Title 267,Director B,"Actor 3, Actor 4",India,"September 10, 2011",1984,TV-14,1 Seasons,Romance,A inspiring story about friendship.
+s00268,TV Show,Title 268,Director A,,India,"July 01, 2016",2016,TV-14,1 Seasons,Documentary,A mysterious story about friendship.
+s00269,Movie,Title 269,Director E,Actor 5,,"January 18, 2008",1987,TV-MA,91 min,Documentary,A thrilling story about technology.
+s00270,Movie,Title 270,,"Actor 1, Actor 2",United States,"October 03, 2016",2021,TV-MA,120 min,Thriller,A dark story about technology.
+s00271,TV Show,Title 271,Director E,"Actor 3, Actor 4",United Kingdom,"December 12, 2013",2007,TV-MA,2 Seasons,Comedy,A thrilling story about friendship.
+s00272,TV Show,Title 272,Director C,"Actor 3, Actor 4",Brazil,"March 16, 2018",2010,TV-MA,8 Seasons,Documentary,A dark story about technology.
+s00273,TV Show,Title 273,Director B,"Actor 1, Actor 2",India,"May 25, 2014",1988,PG,7 Seasons,"Sci-Fi, Romance",A mysterious story about technology.
+s00274,TV Show,Title 274,,,Japan,"June 27, 2017",2008,PG-13,4 Seasons,Sci-Fi,A dark story about crime.
+s00275,Movie,Title 275,Director B,,Spain,"August 16, 2023",1993,TV-MA,151 min,"Documentary, Sci-Fi",A dark story about friendship.
+s00276,Movie,Title 276,Director B,Actor 5,,"May 20, 2024",2019,TV-PG,149 min,"Drama, Romance",A inspiring story about family.
+s00277,TV Show,Title 277,,"Actor 6, Actor 7, Actor 8",United States,"June 18, 2020",2020,G,7 Seasons,"Thriller, Drama",A heartfelt story about survival.
+s00278,Movie,Title 278,Director C,"Actor 3, Actor 4",,"November 05, 2022",2001,TV-PG,123 min,Romance,A funny story about family.
+s00279,TV Show,Title 279,Director E,,India,"February 11, 2024",1990,NR,7 Seasons,Action,A inspiring story about family.
+s00280,TV Show,Title 280,Director C,"Actor 1, Actor 2","United States, Germany","November 30, 2018",2002,TV-MA,4 Seasons,Horror,A dark story about technology.
+s00281,TV Show,Title 281,Director D,Actor 5,India,"June 22, 2011",1980,PG-13,3 Seasons,Sci-Fi,A dark story about love.
+s00282,Movie,Title 282,,Actor 5,,"April 04, 2012",2016,R,143 min,Romance,A dark story about crime.
+s00283,Movie,Title 283,Director B,,India,"August 27, 2014",2000,R,148 min,Sci-Fi,A inspiring story about survival.
+s00284,Movie,Title 284,,,United States,"November 18, 2012",2005,TV-MA,60 min,Comedy,A inspiring story about technology.
+s00285,Movie,Title 285,Director C,Actor 5,Japan,"April 24, 2009",2015,PG,174 min,Drama,A mysterious story about survival.
+s00286,Movie,Title 286,Director E,"Actor 1, Actor 2",United States,"December 27, 2020",2002,TV-MA,156 min,Animation,A thrilling story about family.
+s00287,Movie,Title 287,Director C,"Actor 1, Actor 2",United States,"July 02, 2024",1980,TV-MA,170 min,Thriller,A mysterious story about technology.
+s00288,Movie,Title 288,,,"United States, France","February 28, 2020",2019,TV-14,158 min,Family,A funny story about survival.
+s00289,Movie,Title 289,Director A,"Actor 3, Actor 4",United States,"May 14, 2009",1994,TV-14,173 min,"Sci-Fi, Horror",A mysterious story about family.
+s00290,Movie,Title 290,Director C,Actor 5,United States,"October 10, 2024",2000,TV-14,73 min,"Animation, Action",A inspiring story about family.
+s00291,Movie,Title 291,Director B,"Actor 6, Actor 7, Actor 8",United States,"January 13, 2015",1988,TV-MA,159 min,Romance,A thrilling story about family.
+s00292,Movie,Title 292,Director D,"Actor 3, Actor 4",Japan,"April 13, 2009",1988,PG,114 min,Romance,A funny story about survival.
+s00293,TV Show,Title 293,Director D,"Actor 3, Actor 4",United States,"February 14, 2009",1989,PG-13,4 Seasons,"Comedy, Documentary",A dark story about family.
+s00294,Movie,Title 294,Director C,,United States,"February 06, 2021",2005,TV-MA,82 min,Family,A heartfelt story about love.
+s00295,Movie,Title 295,Director A,"Actor 3, Actor 4",,"September 10, 2018",2020,G,162 min,Sci-Fi,A thrilling story about love.
+s00296,Movie,Title 296,Director A,"Actor 1, Actor 2",India,"April 12, 2019",2014,TV-PG,149 min,Romance,A thrilling story about crime.
+s00297,TV Show,Title 297,,"Actor 3, Actor 4",Japan,"November 29, 2019",2004,PG,8 Seasons,"Animation, Drama",A thrilling story about love.
+s00298,Movie,Title 298,Director A,"Actor 1, Actor 2",United States,"July 13, 2011",2005,PG,66 min,"Romance, Sci-Fi",A mysterious story about crime.
+s00299,Movie,Title 299,Director B,"Actor 1, Actor 2",United States,"April 10, 2009",1990,R,131 min,"Action, Romance",A heartfelt story about technology.
+s00300,Movie,Title 300,Director C,,United States,"May 23, 2019",2017,TV-14,91 min,Drama,A funny story about survival.
